@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /write
+Disallow: /dashboard
+Disallow: /videos
+
+Sitemap: https://taivideonhanh.com/sitemap.xml

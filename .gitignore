@@ -1,0 +1,11 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+backup/
+_vps_frontend_mirror/
+# helper scripts at repo root contain hard-coded VPS credentials
+/*.py
